@@ -2,4 +2,4 @@
 
 ### Creando un conflicto en git
 
-Esto es un mensaje en nuestra rama de conflicto
+Dame un error
